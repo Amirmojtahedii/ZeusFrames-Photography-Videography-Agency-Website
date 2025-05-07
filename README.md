@@ -59,5 +59,5 @@ _"Fast delivery, premium quality, and super smooth communication. 10/10!"_
 
 ## Social Media Links
 
-- [Instagram](https://www.instagram.com/zeus.frames.inc)
-- - [Instagram](https://www.instagram.com/programmer.amir)
+- [Zeus Frames Instagram](https://www.instagram.com/zeus.frames.inc)
+- [My Instagram](https://www.instagram.com/programmer.amir)
